@@ -1,0 +1,13 @@
+course='Python for Beginners'
+print(len(course))
+print(course.upper())
+print(course.lower())
+print(course)
+print(course.title())
+print(course.find('P'))
+print(course.find('o'))
+print(course.find('Begginers'))
+print(course.replace('Beginers','absoulute Beginners'))
+print(course.replace('p','J'))
+print('Python' in course)     
+print('python' in course)           
